@@ -1,2 +1,2 @@
-# kalian
-kali source list in any debian based distro
+# Kalian v1.0 
+Kali Linux Source List Installer In Any Debian Based Distro
